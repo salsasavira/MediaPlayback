@@ -372,6 +372,7 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 
+
     private class MySessionCallback extends MediaSessionCompat.Callback {
         @Override
         public void onPlay() {
