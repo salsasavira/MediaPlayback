@@ -2,7 +2,7 @@
 
 # Identitas Siswa:
 Nama          : Salsabilla Mega Savira <br> <br>
-Kelas/No Urut : XII RPL 4 <br> <br>
+Kelas/No Urut : XII RPL 4 / 31<br> <br>
 NIS           : 4824/1543.070 <br> <br>
 Angkatan      : 24 <br> <br>
 
