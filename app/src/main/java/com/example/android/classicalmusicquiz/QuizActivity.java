@@ -388,4 +388,5 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
             mExoPlayer.seekTo(0);
         }
     }
+
 }
